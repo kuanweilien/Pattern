@@ -1,0 +1,16 @@
+E:\Code\C#\Pattern\DecoratePattern\bin\Debug\net5.0\DecoratePattern.exe
+E:\Code\C#\Pattern\DecoratePattern\bin\Debug\net5.0\DecoratePattern.deps.json
+E:\Code\C#\Pattern\DecoratePattern\bin\Debug\net5.0\DecoratePattern.runtimeconfig.json
+E:\Code\C#\Pattern\DecoratePattern\bin\Debug\net5.0\DecoratePattern.runtimeconfig.dev.json
+E:\Code\C#\Pattern\DecoratePattern\bin\Debug\net5.0\DecoratePattern.dll
+E:\Code\C#\Pattern\DecoratePattern\bin\Debug\net5.0\ref\DecoratePattern.dll
+E:\Code\C#\Pattern\DecoratePattern\bin\Debug\net5.0\DecoratePattern.pdb
+E:\Code\C#\Pattern\DecoratePattern\obj\Debug\net5.0\DecoratePattern.csprojAssemblyReference.cache
+E:\Code\C#\Pattern\DecoratePattern\obj\Debug\net5.0\DecoratePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C#\Pattern\DecoratePattern\obj\Debug\net5.0\DecoratePattern.AssemblyInfoInputs.cache
+E:\Code\C#\Pattern\DecoratePattern\obj\Debug\net5.0\DecoratePattern.AssemblyInfo.cs
+E:\Code\C#\Pattern\DecoratePattern\obj\Debug\net5.0\DecoratePattern.csproj.CoreCompileInputs.cache
+E:\Code\C#\Pattern\DecoratePattern\obj\Debug\net5.0\DecoratePattern.dll
+E:\Code\C#\Pattern\DecoratePattern\obj\Debug\net5.0\ref\DecoratePattern.dll
+E:\Code\C#\Pattern\DecoratePattern\obj\Debug\net5.0\DecoratePattern.pdb
+E:\Code\C#\Pattern\DecoratePattern\obj\Debug\net5.0\DecoratePattern.genruntimeconfig.cache

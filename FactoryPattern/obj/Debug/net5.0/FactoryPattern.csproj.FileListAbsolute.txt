@@ -1,0 +1,16 @@
+E:\Code\C#\Pattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.exe
+E:\Code\C#\Pattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.deps.json
+E:\Code\C#\Pattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.runtimeconfig.json
+E:\Code\C#\Pattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.runtimeconfig.dev.json
+E:\Code\C#\Pattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.dll
+E:\Code\C#\Pattern\FactoryPattern\bin\Debug\net5.0\ref\FactoryPattern.dll
+E:\Code\C#\Pattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.pdb
+E:\Code\C#\Pattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csprojAssemblyReference.cache
+E:\Code\C#\Pattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C#\Pattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfoInputs.cache
+E:\Code\C#\Pattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfo.cs
+E:\Code\C#\Pattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csproj.CoreCompileInputs.cache
+E:\Code\C#\Pattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.dll
+E:\Code\C#\Pattern\FactoryPattern\obj\Debug\net5.0\ref\FactoryPattern.dll
+E:\Code\C#\Pattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.pdb
+E:\Code\C#\Pattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.genruntimeconfig.cache
